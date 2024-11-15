@@ -14,4 +14,4 @@ def home(request):
     return render(request, 'pages/home.html', {'form': form})
      
 def about(request):
-    return render(request, 'pages/about.html')
+    return render(request, 'pages/contact.html')
