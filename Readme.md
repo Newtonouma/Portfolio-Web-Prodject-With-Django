@@ -1,7 +1,3 @@
-Here’s an example of a well-structured README file for your Django portfolio project:
-
----
-
 # Portfolio Website  
 
 A dynamic portfolio website built using Django that showcases personal projects, skills, and professional achievements.  
@@ -16,10 +12,9 @@ A dynamic portfolio website built using Django that showcases personal projects,
 
 ## Technologies Used  
 
-- **Backend:** Django 4.2  
-- **Frontend:** HTML5, CSS3, Bootstrap  
-- **Database:** SQLite (default, replaceable with PostgreSQL or MySQL)  
-- **Email Integration:** Django's Email Backend  
+- **Backend:** Django 5. 1. 0 
+- **Frontend:** HTML5, CSS, Bootstrap  
+- **Database:** SQLite  
 
 ## Installation  
 
@@ -27,7 +22,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/your-username/portfolio-django.git  
+   git clone https://github.com/Newtonouma/portfolio-django.git  
    cd portfolio-django  
    ```  
 
@@ -60,20 +55,13 @@ Follow these steps to set up the project locally:
 1. **Admin Panel:**  
    Access the Django admin panel at `/admin/` to manage portfolio data.  
 
-2. **Add Content:**  
-   Add projects, skills, or other relevant details through the admin interface.  
+2. **Send Me A message:**  
+   Add data to to db using forms  
 
-3. **Deploy:**  
-   Use platforms like Heroku or render.com to deploy your project online.  
 
-## Screenshots  
-
-![Homepage Screenshot](link-to-image)  
-_Description of the screenshot (e.g., "Homepage showcasing featured projects")_  
 
 ## Future Enhancements  
 
-- Add user authentication for blog management.  
 - Integrate Google Analytics for visitor tracking.  
 - Improve accessibility and performance.  
 
@@ -81,17 +69,9 @@ _Description of the screenshot (e.g., "Homepage showcasing featured projects")_
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.  
 
-## License  
-
-This project is licensed under the [MIT License](LICENSE).  
 
 ## Contact  
 
 For any inquiries, reach out to:  
-**Name:** [Your Name]  
-**Email:** [Your Email]  
-**Portfolio:** [Your Portfolio Link]  
-
----  
-
-Replace placeholders with your actual project details, repository link, and contact information.
+**Name:** Newton Armstrong  
+**Email:** armstrongnewton02@gmail   
